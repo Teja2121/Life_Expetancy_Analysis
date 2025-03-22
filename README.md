@@ -85,7 +85,7 @@ Understanding life expectancy is crucial for assessing a country's health and de
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/world-life-expectancy.git
+   git clone https://github.com/Teja2121/Life_Expetancy_Analysis.git
    ```
 2. Import the SQL script into your MySQL database.
 3. Run the queries step-by-step to clean the data and perform analysis.
